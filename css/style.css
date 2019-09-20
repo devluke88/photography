@@ -12,6 +12,25 @@ body {
     width: 100%;
 }
 
+.slidesc {
+    z-index: 2;
+    position: relative;
+    top: 46%;
+    left: 0;
+    font-size: 72px;
+    line-height: 1.05556;
+    font-weight: 400;
+    color: #fff;
+    text-shadow: 0 0 5px #000;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+a:hover {
+   text-decoration: none;
+}
 
 .slides-navigation .prev,
 .slides-navigation .next {
