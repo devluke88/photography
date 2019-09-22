@@ -203,3 +203,9 @@ footer .row p {
     margin-bottom: 50px;
     text-align: center;
 }
+
+@media (max-width: 750px) {
+    .slidesc {
+        font-size: 40px;
+    }
+}
